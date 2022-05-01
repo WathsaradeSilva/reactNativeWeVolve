@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "550339879035",
+    "project_id": "first-15190",
+    "storage_bucket": "first-15190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550339879035:android:66af1c178ba35ea87b02de",
+        "android_client_info": {
+          "package_name": "com.company.emotionApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550339879035-9ifpo5imtraoo30b6v7l0mgo724ivjej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOHDtEPr_P3Hf9AhrqgcFNSEEFXnD3C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550339879035-9ifpo5imtraoo30b6v7l0mgo724ivjej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550339879035:android:c05d96c031571e7d7b02de",
+        "android_client_info": {
+          "package_name": "com.emotionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550339879035-9ifpo5imtraoo30b6v7l0mgo724ivjej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOHDtEPr_P3Hf9AhrqgcFNSEEFXnD3C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550339879035-9ifpo5imtraoo30b6v7l0mgo724ivjej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
