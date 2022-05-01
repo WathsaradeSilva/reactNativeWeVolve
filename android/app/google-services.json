@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072261198954",
+    "project_id": "emotionapp-3cf6d",
+    "storage_bucket": "emotionapp-3cf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072261198954:android:b1a167971d7636335dc613",
+        "android_client_info": {
+          "package_name": "com.emotionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072261198954-nstb02t9ntiq57vjhcio2t01alllfmnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-N96caSXBh7ANfilk5JcL1AKEGa5dmps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072261198954-nstb02t9ntiq57vjhcio2t01alllfmnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
